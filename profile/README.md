@@ -23,3 +23,10 @@ Fully Coded UI Tools to create web and mobile apps: UI Kits, Templates and Dashb
 3. [25+ Essential Web 3.0 Terms You Need to Know to Understand It](https://www.creative-tim.com/blog/educational-tech/essential-web-3-0-terms/?ref=web3-org)
 4. [What is Blockchain Technology and How Does it Work?](https://www.creative-tim.com/blog/educational-tech/what-is-blockchain-technology-and-how-does-it-work/?ref=web3-org)
 5. [What is a Blockchain Wallet? All you Need to Know](https://www.creative-tim.com/blog/educational-tech/what-is-blockchain-wallet/?ref=web3-org)
+
+## Courses
+📖 [The Ultimate UI/UX Design Course](https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=web3-org) <br>
+📖 [Tailwind CSS UI/UX Design Course](https://course-ui-ux.creative-tim.com/course/the-ultimate-uiux-design-course-tailwind-version?ref=web3-org)
+
+## Book
+📖 [Fundamentals of Creating a Great UI/UX](https://www.creative-tim.com/courses/fundamentals-ui-ux?ref=web3-org)
