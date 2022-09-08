@@ -1,7 +1,7 @@
 # Web 3 Ecosystem By [Creative Tim](https://www.creative-tim.com/)
 ![image](https://user-images.githubusercontent.com/4600172/189114922-01417f4e-bbda-404e-97e5-285990c5e9d5.png)
 
-Fully Coded UI Tools to create web and mobile apps: UI Kits, Templates and Dashboards built on top of **Bootstrap, Vue.js, React, Angular, Node.js and Laravel**. Join over 1,900,000+ creatives to access all our products!
+[Creative Tim](https://www.creative-tim.com/) started in 2014 with building high-quality UI tools like design systems and admin dashboards for developers & designers, creating a community of over 1.9 million users globally. In 2021 our team decided to take a look over the Web 3.0 ecosystem and see how we can bring our experience there. Follow us on our **Web 3.0 Journey**!
 
 ## Official sites:
 👉 Website: [creative-tim.com](https://www.creative-tim.com/) <br>
