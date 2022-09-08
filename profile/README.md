@@ -28,5 +28,5 @@
 📖 [The Ultimate UI/UX Design Course](https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=web3-org) <br>
 📖 [Tailwind CSS UI/UX Design Course](https://course-ui-ux.creative-tim.com/course/the-ultimate-uiux-design-course-tailwind-version?ref=web3-org)
 
-## Book
+## Books
 📖 [Fundamentals of Creating a Great UI/UX](https://www.creative-tim.com/courses/fundamentals-ui-ux?ref=web3-org)
