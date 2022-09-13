@@ -7,7 +7,7 @@
 👉 Website: [creative-tim.com](https://www.creative-tim.com/) <br>
 👉 NF-Tim Collection: [nf-tim.creative-tim.com](https://nf-tim.creative-tim.com/)
 
-## Commiunity
+## Community
 💬 Creative Tim [Discord](https://discord.gg/buAXAbbX) <br>
 💬 NF-Tim [Discord](https://discord.gg/UAUFTuft) <br>
 💬 NF-Tim [Telegram RO](https://t.me/NFTim_Romania) <br>
