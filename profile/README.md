@@ -5,7 +5,8 @@
 
 ## Official sites:
 👉 Website: [creative-tim.com](https://www.creative-tim.com/) <br>
-👉 NF-Tim Collection: [nf-tim.creative-tim.com](https://nf-tim.creative-tim.com/)
+👉 NF-Tim Collection: [nf-tim.creative-tim.com](https://nf-tim.creative-tim.com/) <br>
+👉 Web 3 Design System: [elrond-elements.com](https://elrond-elements.com/)
 
 ## Community
 💬 Creative Tim [Discord](https://discord.gg/buAXAbbX) <br>
@@ -14,6 +15,7 @@
 💬 NF-Tim [Telegram EN](https://t.me/NFTim_international)
 
 ## dApps
+🧑‍💻 Elrond Web Wallet Clone - [Elrond dApp](https://web-wallet.elrond-elements.com/) <br>
 🧑‍💻 My NFTs Collection - [Elrond dApp](https://github.com/web3-creative-tim/elrond-my-nfts-collection-dapp) <br>
 🧑‍💻 Mint your Collection - [Elrond dApp](https://github.com/Elrond-Giants/giants-nftim-minting-dapp)
 
