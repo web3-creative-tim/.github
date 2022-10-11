@@ -15,7 +15,7 @@
 💬 NF-Tim [Telegram EN](https://t.me/NFTim_international)
 
 ## dApps
-🧑‍💻 Elrond Web Wallet Clone - [Elrond dApp](https://web-wallet.elrond-elements.com/) <br>
+🧑‍💻 Elrond Web Wallet Example - [Elrond dApp](https://web-wallet.elrond-elements.com/) <br>
 🧑‍💻 My NFTs Collection - [Elrond dApp](https://github.com/web3-creative-tim/elrond-my-nfts-collection-dapp) <br>
 🧑‍💻 Mint your Collection - [Elrond dApp](https://github.com/Elrond-Giants/giants-nftim-minting-dapp)
 
