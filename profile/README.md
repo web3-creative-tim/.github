@@ -1,12 +1,12 @@
-# Web 3 Ecosystem By [Creative Tim](https://www.creative-tim.com/)
+# Web 3 Ecosystem By [Creative Tim](https://www.creative-tim.com/?ref=web3-git)
 ![image](https://user-images.githubusercontent.com/4600172/189114922-01417f4e-bbda-404e-97e5-285990c5e9d5.png)
 
-[Creative Tim](https://www.creative-tim.com/) started in 2014 with building high-quality UI tools like design systems and admin dashboards for developers & designers, creating a community of over 1.9 million users globally. In 2021 our team decided to take a look over the Web 3.0 ecosystem and see how we can bring our experience there. Follow us on our **Web 3.0 Journey**!
+[Creative Tim](https://www.creative-tim.com/?ref=web3-git) started in 2014 with building high-quality UI tools like design systems and admin dashboards for developers & designers, creating a community of over 1.9 million users globally. In 2021 our team decided to take a look over the Web 3.0 ecosystem and see how we can bring our experience there. Follow us on our **Web 3.0 Journey**!
 
 ## Official sites:
-👉 Website: [creative-tim.com](https://www.creative-tim.com/) <br>
-👉 NF-Tim Collection: [nf-tim.creative-tim.com](https://nf-tim.creative-tim.com/) <br>
-👉 Web 3 Design System: [elrond-elements.com](https://elrond-elements.com/)
+👉 Website: [creative-tim.com](https://www.creative-tim.com/?ref=web3-git) <br>
+👉 NF-Tim Collection: [nf-tim.creative-tim.com](https://nf-tim.creative-tim.com/?ref=web3-git) <br>
+👉 Web 3 Design System: [multivers-ui.com](https://multivers-ui.com/?ref=web3-git)
 
 ## Community
 💬 Creative Tim [Discord](https://discord.gg/buAXAbbX) <br>
@@ -15,9 +15,9 @@
 💬 NF-Tim [Telegram EN](https://t.me/NFTim_international)
 
 ## dApps
-🧑‍💻 Elrond Web Wallet Example - [Elrond dApp](https://web-wallet.elrond-elements.com/) <br>
-🧑‍💻 My NFTs Collection - [Elrond dApp](https://github.com/web3-creative-tim/elrond-my-nfts-collection-dapp) <br>
-🧑‍💻 Mint your Collection - [Elrond dApp](https://github.com/Elrond-Giants/giants-nftim-minting-dapp)
+🧑‍💻 MultiversX (Elrond) Web Wallet Example - [Elrond dApp](https://web-wallet.multivers-ui.com/) <br>
+🧑‍💻 My NFTs Collection - [MultiversX (Elrond) dApp](https://github.com/web3-creative-tim/elrond-my-nfts-collection-dapp) <br>
+🧑‍💻 Mint your Collection - [MultiversX (Elrond) dApp](https://github.com/Elrond-Giants/giants-nftim-minting-dapp)
 
 ## Web 3 Blog Posts
 1. [What is Web 3.0? Everything explained](https://www.creative-tim.com/blog/web-3-0/what-is-web-3-0-everything-explained/?ref=web3-org)
