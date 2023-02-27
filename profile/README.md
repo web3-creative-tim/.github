@@ -6,7 +6,7 @@
 ## Official sites:
 👉 Website: [creative-tim.com](https://www.creative-tim.com/?ref=web3-git) <br>
 👉 NF-Tim Collection: [nf-tim.creative-tim.com](https://nf-tim.creative-tim.com/?ref=web3-git) <br>
-👉 Web 3 Design System: [multivers-ui.com](https://multivers-ui.com/?ref=web3-git)
+👉 Web 3 Design System: [multiversx-ui.com](https://multiversx-ui.com/?ref=web3-git)
 
 ## Community
 💬 Creative Tim [Discord](https://discord.gg/buAXAbbX) <br>
@@ -15,7 +15,7 @@
 💬 NF-Tim [Telegram EN](https://t.me/NFTim_international)
 
 ## dApps
-🧑‍💻 MultiversX (Elrond) Web Wallet Example - [Elrond dApp](https://web-wallet.multivers-ui.com/) <br>
+🧑‍💻 MultiversX (Elrond) Web Wallet Example - [Elrond dApp](https://web-wallet.multiversx-ui.com/) <br>
 🧑‍💻 My NFTs Collection - [MultiversX (Elrond) dApp](https://github.com/web3-creative-tim/elrond-my-nfts-collection-dapp) <br>
 🧑‍💻 Mint your Collection - [MultiversX (Elrond) dApp](https://github.com/Elrond-Giants/giants-nftim-minting-dapp)
 
